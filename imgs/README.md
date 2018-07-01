@@ -11,9 +11,15 @@
 |<img width="1604" alt="" src="community/34.jpg"> |<img width="1604" alt="" src="community/4.jpg"> |<img width="1604" alt="" src="community/41.jpg"> |
 |<img width="1604" alt="" src="community/42.jpg"> |<img width="1604" alt="" src="community/43.jpg">|<img width="1604" alt="" src="community/45.jpg"> |
 |<img width="1604" alt="" src="community/51.jpg"> |<img width="1604" alt="" src="community/52.jpg"> |<img width="1604" alt="" src="community/53.jpg"> |
+|<img width="1604" alt="" src="community/54.jpg"> |<img width="1604" alt="" src="community/55.jpg"> |<img width="1604" alt="" src="community/56.jpg"> |
+||<img width="1604" alt="" src="community/64.png"> ||
+|<img width="1604" alt="" src="community/61.jpg"> |<img width="1604" alt="" src="community/62.jpg"> |<img width="1604" alt="" src="community/63.jpg"> |
 
 
-
+## AI Saturdays
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| | <img width="1604" alt="" src="ai6-banner.png"> | |
 
 ## AI Saturdays - Boise, Co-Ambassadors
 
